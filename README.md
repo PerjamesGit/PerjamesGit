@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PerjamesGit
-- 👀 I’m interested in develop myself
-- 🌱 I’m currently learning flutter, dart
-- 💞️ I’m looking to collaborate on ...
+- 👀 Flutter Developer
 - 📫 How to reach me - jamesongchiyang@gmail.com
 
 <!---
