@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PerjamesGit
 - 👀 Flutter Developer
-- 📫 How to reach me - jamesongchiyang@gmail.com
 
 <!---
 PerjamesGit/PerjamesGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
